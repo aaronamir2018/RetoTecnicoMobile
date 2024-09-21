@@ -6,6 +6,13 @@
 	objectVersion = 77;
 	objects = {
 
+/* Begin PBXBuildFile section */
+		A8E15AF02C9E6077006F3C1C /* Alamofire in Frameworks */ = {isa = PBXBuildFile; productRef = A8E15AEF2C9E6077006F3C1C /* Alamofire */; };
+		A8E15AF22C9E6080006F3C1C /* IQKeyboardManagerSwift in Frameworks */ = {isa = PBXBuildFile; productRef = A8E15AF12C9E6080006F3C1C /* IQKeyboardManagerSwift */; };
+		A8E15AF42C9E6089006F3C1C /* Kingfisher in Frameworks */ = {isa = PBXBuildFile; productRef = A8E15AF32C9E6089006F3C1C /* Kingfisher */; };
+		A8E15AF62C9E6092006F3C1C /* SVProgressHUD in Frameworks */ = {isa = PBXBuildFile; productRef = A8E15AF52C9E6092006F3C1C /* SVProgressHUD */; };
+/* End PBXBuildFile section */
+
 /* Begin PBXContainerItemProxy section */
 		A8E15AB42C9E524C006F3C1C /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
@@ -65,6 +72,10 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A8E15AF62C9E6092006F3C1C /* SVProgressHUD in Frameworks */,
+				A8E15AF42C9E6089006F3C1C /* Kingfisher in Frameworks */,
+				A8E15AF02C9E6077006F3C1C /* Alamofire in Frameworks */,
+				A8E15AF22C9E6080006F3C1C /* IQKeyboardManagerSwift in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -91,6 +102,7 @@
 				A8E15A9C2C9E524A006F3C1C /* RetoTecnicoMobile */,
 				A8E15AB62C9E524C006F3C1C /* RetoTecnicoMobileTests */,
 				A8E15AC02C9E524C006F3C1C /* RetoTecnicoMobileUITests */,
+				A8E15AEE2C9E6077006F3C1C /* Frameworks */,
 				A8E15A9B2C9E524A006F3C1C /* Products */,
 			);
 			sourceTree = "<group>";
@@ -103,6 +115,13 @@
 				A8E15ABD2C9E524C006F3C1C /* RetoTecnicoMobileUITests.xctest */,
 			);
 			name = Products;
+			sourceTree = "<group>";
+		};
+		A8E15AEE2C9E6077006F3C1C /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = Frameworks;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -125,6 +144,10 @@
 			);
 			name = RetoTecnicoMobile;
 			packageProductDependencies = (
+				A8E15AEF2C9E6077006F3C1C /* Alamofire */,
+				A8E15AF12C9E6080006F3C1C /* IQKeyboardManagerSwift */,
+				A8E15AF32C9E6089006F3C1C /* Kingfisher */,
+				A8E15AF52C9E6092006F3C1C /* SVProgressHUD */,
 			);
 			productName = RetoTecnicoMobile;
 			productReference = A8E15A9A2C9E524A006F3C1C /* RetoTecnicoMobile.app */;
@@ -604,6 +627,29 @@
 			};
 		};
 /* End XCRemoteSwiftPackageReference section */
+
+/* Begin XCSwiftPackageProductDependency section */
+		A8E15AEF2C9E6077006F3C1C /* Alamofire */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = A8E15AEA2C9E5B51006F3C1C /* XCRemoteSwiftPackageReference "Alamofire" */;
+			productName = Alamofire;
+		};
+		A8E15AF12C9E6080006F3C1C /* IQKeyboardManagerSwift */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = A8E15AEB2C9E5B7D006F3C1C /* XCRemoteSwiftPackageReference "IQKeyboardManager" */;
+			productName = IQKeyboardManagerSwift;
+		};
+		A8E15AF32C9E6089006F3C1C /* Kingfisher */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = A8E15AEC2C9E5B9A006F3C1C /* XCRemoteSwiftPackageReference "Kingfisher" */;
+			productName = Kingfisher;
+		};
+		A8E15AF52C9E6092006F3C1C /* SVProgressHUD */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = A8E15AED2C9E5BA9006F3C1C /* XCRemoteSwiftPackageReference "SVProgressHUD" */;
+			productName = SVProgressHUD;
+		};
+/* End XCSwiftPackageProductDependency section */
 	};
 	rootObject = A8E15A922C9E524A006F3C1C /* Project object */;
 }
