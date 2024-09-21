@@ -208,6 +208,12 @@
 			);
 			mainGroup = A8E15A912C9E524A006F3C1C;
 			minimizedProjectReferenceProxies = 1;
+			packageReferences = (
+				A8E15AEA2C9E5B51006F3C1C /* XCRemoteSwiftPackageReference "Alamofire" */,
+				A8E15AEB2C9E5B7D006F3C1C /* XCRemoteSwiftPackageReference "IQKeyboardManager" */,
+				A8E15AEC2C9E5B9A006F3C1C /* XCRemoteSwiftPackageReference "Kingfisher" */,
+				A8E15AED2C9E5BA9006F3C1C /* XCRemoteSwiftPackageReference "SVProgressHUD" */,
+			);
 			preferredProjectObjectVersion = 77;
 			productRefGroup = A8E15A9B2C9E524A006F3C1C /* Products */;
 			projectDirPath = "";
@@ -563,6 +569,41 @@
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
+
+/* Begin XCRemoteSwiftPackageReference section */
+		A8E15AEA2C9E5B51006F3C1C /* XCRemoteSwiftPackageReference "Alamofire" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/Alamofire/Alamofire.git";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 5.9.1;
+			};
+		};
+		A8E15AEB2C9E5B7D006F3C1C /* XCRemoteSwiftPackageReference "IQKeyboardManager" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/hackiftekhar/IQKeyboardManager.git";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 7.1.1;
+			};
+		};
+		A8E15AEC2C9E5B9A006F3C1C /* XCRemoteSwiftPackageReference "Kingfisher" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/onevcat/Kingfisher.git";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 8.0.2;
+			};
+		};
+		A8E15AED2C9E5BA9006F3C1C /* XCRemoteSwiftPackageReference "SVProgressHUD" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/SVProgressHUD/SVProgressHUD.git";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 2.3.1;
+			};
+		};
+/* End XCRemoteSwiftPackageReference section */
 	};
 	rootObject = A8E15A922C9E524A006F3C1C /* Project object */;
 }
