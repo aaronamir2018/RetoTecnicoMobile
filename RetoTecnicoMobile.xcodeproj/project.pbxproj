@@ -1,0 +1,568 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 77;
+	objects = {
+
+/* Begin PBXContainerItemProxy section */
+		A8E15AB42C9E524C006F3C1C /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = A8E15A922C9E524A006F3C1C /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = A8E15A992C9E524A006F3C1C;
+			remoteInfo = RetoTecnicoMobile;
+		};
+		A8E15ABE2C9E524C006F3C1C /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = A8E15A922C9E524A006F3C1C /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = A8E15A992C9E524A006F3C1C;
+			remoteInfo = RetoTecnicoMobile;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		A8E15A9A2C9E524A006F3C1C /* RetoTecnicoMobile.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = RetoTecnicoMobile.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		A8E15AB32C9E524C006F3C1C /* RetoTecnicoMobileTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = RetoTecnicoMobileTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		A8E15ABD2C9E524C006F3C1C /* RetoTecnicoMobileUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = RetoTecnicoMobileUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+/* End PBXFileReference section */
+
+/* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
+		A8E15AC52C9E524C006F3C1C /* Exceptions for "RetoTecnicoMobile" folder in "RetoTecnicoMobile" target */ = {
+			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
+			membershipExceptions = (
+				Info.plist,
+			);
+			target = A8E15A992C9E524A006F3C1C /* RetoTecnicoMobile */;
+		};
+/* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
+
+/* Begin PBXFileSystemSynchronizedRootGroup section */
+		A8E15A9C2C9E524A006F3C1C /* RetoTecnicoMobile */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			exceptions = (
+				A8E15AC52C9E524C006F3C1C /* Exceptions for "RetoTecnicoMobile" folder in "RetoTecnicoMobile" target */,
+			);
+			path = RetoTecnicoMobile;
+			sourceTree = "<group>";
+		};
+		A8E15AB62C9E524C006F3C1C /* RetoTecnicoMobileTests */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = RetoTecnicoMobileTests;
+			sourceTree = "<group>";
+		};
+		A8E15AC02C9E524C006F3C1C /* RetoTecnicoMobileUITests */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = RetoTecnicoMobileUITests;
+			sourceTree = "<group>";
+		};
+/* End PBXFileSystemSynchronizedRootGroup section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		A8E15A972C9E524A006F3C1C /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		A8E15AB02C9E524C006F3C1C /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		A8E15ABA2C9E524C006F3C1C /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		A8E15A912C9E524A006F3C1C = {
+			isa = PBXGroup;
+			children = (
+				A8E15A9C2C9E524A006F3C1C /* RetoTecnicoMobile */,
+				A8E15AB62C9E524C006F3C1C /* RetoTecnicoMobileTests */,
+				A8E15AC02C9E524C006F3C1C /* RetoTecnicoMobileUITests */,
+				A8E15A9B2C9E524A006F3C1C /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		A8E15A9B2C9E524A006F3C1C /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				A8E15A9A2C9E524A006F3C1C /* RetoTecnicoMobile.app */,
+				A8E15AB32C9E524C006F3C1C /* RetoTecnicoMobileTests.xctest */,
+				A8E15ABD2C9E524C006F3C1C /* RetoTecnicoMobileUITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		A8E15A992C9E524A006F3C1C /* RetoTecnicoMobile */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = A8E15AC62C9E524C006F3C1C /* Build configuration list for PBXNativeTarget "RetoTecnicoMobile" */;
+			buildPhases = (
+				A8E15A962C9E524A006F3C1C /* Sources */,
+				A8E15A972C9E524A006F3C1C /* Frameworks */,
+				A8E15A982C9E524A006F3C1C /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			fileSystemSynchronizedGroups = (
+				A8E15A9C2C9E524A006F3C1C /* RetoTecnicoMobile */,
+			);
+			name = RetoTecnicoMobile;
+			packageProductDependencies = (
+			);
+			productName = RetoTecnicoMobile;
+			productReference = A8E15A9A2C9E524A006F3C1C /* RetoTecnicoMobile.app */;
+			productType = "com.apple.product-type.application";
+		};
+		A8E15AB22C9E524C006F3C1C /* RetoTecnicoMobileTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = A8E15ACB2C9E524C006F3C1C /* Build configuration list for PBXNativeTarget "RetoTecnicoMobileTests" */;
+			buildPhases = (
+				A8E15AAF2C9E524C006F3C1C /* Sources */,
+				A8E15AB02C9E524C006F3C1C /* Frameworks */,
+				A8E15AB12C9E524C006F3C1C /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				A8E15AB52C9E524C006F3C1C /* PBXTargetDependency */,
+			);
+			fileSystemSynchronizedGroups = (
+				A8E15AB62C9E524C006F3C1C /* RetoTecnicoMobileTests */,
+			);
+			name = RetoTecnicoMobileTests;
+			packageProductDependencies = (
+			);
+			productName = RetoTecnicoMobileTests;
+			productReference = A8E15AB32C9E524C006F3C1C /* RetoTecnicoMobileTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		A8E15ABC2C9E524C006F3C1C /* RetoTecnicoMobileUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = A8E15ACE2C9E524C006F3C1C /* Build configuration list for PBXNativeTarget "RetoTecnicoMobileUITests" */;
+			buildPhases = (
+				A8E15AB92C9E524C006F3C1C /* Sources */,
+				A8E15ABA2C9E524C006F3C1C /* Frameworks */,
+				A8E15ABB2C9E524C006F3C1C /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				A8E15ABF2C9E524C006F3C1C /* PBXTargetDependency */,
+			);
+			fileSystemSynchronizedGroups = (
+				A8E15AC02C9E524C006F3C1C /* RetoTecnicoMobileUITests */,
+			);
+			name = RetoTecnicoMobileUITests;
+			packageProductDependencies = (
+			);
+			productName = RetoTecnicoMobileUITests;
+			productReference = A8E15ABD2C9E524C006F3C1C /* RetoTecnicoMobileUITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		A8E15A922C9E524A006F3C1C /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 1600;
+				LastUpgradeCheck = 1600;
+				TargetAttributes = {
+					A8E15A992C9E524A006F3C1C = {
+						CreatedOnToolsVersion = 16.0;
+					};
+					A8E15AB22C9E524C006F3C1C = {
+						CreatedOnToolsVersion = 16.0;
+						TestTargetID = A8E15A992C9E524A006F3C1C;
+					};
+					A8E15ABC2C9E524C006F3C1C = {
+						CreatedOnToolsVersion = 16.0;
+						TestTargetID = A8E15A992C9E524A006F3C1C;
+					};
+				};
+			};
+			buildConfigurationList = A8E15A952C9E524A006F3C1C /* Build configuration list for PBXProject "RetoTecnicoMobile" */;
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = A8E15A912C9E524A006F3C1C;
+			minimizedProjectReferenceProxies = 1;
+			preferredProjectObjectVersion = 77;
+			productRefGroup = A8E15A9B2C9E524A006F3C1C /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				A8E15A992C9E524A006F3C1C /* RetoTecnicoMobile */,
+				A8E15AB22C9E524C006F3C1C /* RetoTecnicoMobileTests */,
+				A8E15ABC2C9E524C006F3C1C /* RetoTecnicoMobileUITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		A8E15A982C9E524A006F3C1C /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		A8E15AB12C9E524C006F3C1C /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		A8E15ABB2C9E524C006F3C1C /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		A8E15A962C9E524A006F3C1C /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		A8E15AAF2C9E524C006F3C1C /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		A8E15AB92C9E524C006F3C1C /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		A8E15AB52C9E524C006F3C1C /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = A8E15A992C9E524A006F3C1C /* RetoTecnicoMobile */;
+			targetProxy = A8E15AB42C9E524C006F3C1C /* PBXContainerItemProxy */;
+		};
+		A8E15ABF2C9E524C006F3C1C /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = A8E15A992C9E524A006F3C1C /* RetoTecnicoMobile */;
+			targetProxy = A8E15ABE2C9E524C006F3C1C /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		A8E15AC72C9E524C006F3C1C /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = RetoTecnicoMobile/Info.plist;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
+				INFOPLIST_KEY_UIMainStoryboardFile = Main;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = mobile.RetoTecnicoMobile;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		A8E15AC82C9E524C006F3C1C /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = RetoTecnicoMobile/Info.plist;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
+				INFOPLIST_KEY_UIMainStoryboardFile = Main;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = mobile.RetoTecnicoMobile;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+		A8E15AC92C9E524C006F3C1C /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.0;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "DEBUG $(inherited)";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		A8E15ACA2C9E524C006F3C1C /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.0;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		A8E15ACC2C9E524C006F3C1C /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.0;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = mobile.RetoTecnicoMobileTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/RetoTecnicoMobile.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/RetoTecnicoMobile";
+			};
+			name = Debug;
+		};
+		A8E15ACD2C9E524C006F3C1C /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.0;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = mobile.RetoTecnicoMobileTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/RetoTecnicoMobile.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/RetoTecnicoMobile";
+			};
+			name = Release;
+		};
+		A8E15ACF2C9E524C006F3C1C /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = mobile.RetoTecnicoMobileUITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = RetoTecnicoMobile;
+			};
+			name = Debug;
+		};
+		A8E15AD02C9E524C006F3C1C /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = mobile.RetoTecnicoMobileUITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = RetoTecnicoMobile;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		A8E15A952C9E524A006F3C1C /* Build configuration list for PBXProject "RetoTecnicoMobile" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				A8E15AC92C9E524C006F3C1C /* Debug */,
+				A8E15ACA2C9E524C006F3C1C /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		A8E15AC62C9E524C006F3C1C /* Build configuration list for PBXNativeTarget "RetoTecnicoMobile" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				A8E15AC72C9E524C006F3C1C /* Debug */,
+				A8E15AC82C9E524C006F3C1C /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		A8E15ACB2C9E524C006F3C1C /* Build configuration list for PBXNativeTarget "RetoTecnicoMobileTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				A8E15ACC2C9E524C006F3C1C /* Debug */,
+				A8E15ACD2C9E524C006F3C1C /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		A8E15ACE2C9E524C006F3C1C /* Build configuration list for PBXNativeTarget "RetoTecnicoMobileUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				A8E15ACF2C9E524C006F3C1C /* Debug */,
+				A8E15AD02C9E524C006F3C1C /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = A8E15A922C9E524A006F3C1C /* Project object */;
+}
