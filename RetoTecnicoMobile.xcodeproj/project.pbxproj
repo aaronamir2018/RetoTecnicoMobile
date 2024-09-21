@@ -41,6 +41,8 @@
 			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
 			membershipExceptions = (
 				Info.plist,
+				Scenes/LoginMovies/LoginMoviesInteractor.swift,
+				Scenes/LoginMovies/LoginMoviesViewController.swift,
 			);
 			target = A8E15A992C9E524A006F3C1C /* RetoTecnicoMobile */;
 		};
