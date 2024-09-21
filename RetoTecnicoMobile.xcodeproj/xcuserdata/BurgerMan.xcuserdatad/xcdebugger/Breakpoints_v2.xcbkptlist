@@ -1,0 +1,346 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "570C269F-106A-4C48-A63A-C47273FCD617"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "40668028-5556-4C3D-B786-C017804FE7D1"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RetoTecnicoMobile/Scenes/LoginMovies/LoginMoviesViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "16"
+            endingLineNumber = "16"
+            landmarkName = "LoginMoviesViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "40668028-5556-4C3D-B786-C017804FE7D1 - 3e689f2c94f0fe2f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RetoTecnicoMobile.LoginMoviesViewController.userTextField.getter : Swift.Optional&lt;__C.UITextField&gt;"
+                  moduleName = "RetoTecnicoMobile.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/BurgerMan/Documents/RetoTecnicoMobile/RetoTecnicoMobile/Scenes/LoginMovies/LoginMoviesViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0">
+               </Location>
+               <Location
+                  uuid = "40668028-5556-4C3D-B786-C017804FE7D1 - 64a76932bfbdc66b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RetoTecnicoMobile.LoginMoviesViewController.userTextField.setter : Swift.Optional&lt;__C.UITextField&gt;"
+                  moduleName = "RetoTecnicoMobile.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/BurgerMan/Documents/RetoTecnicoMobile/RetoTecnicoMobile/Scenes/LoginMovies/LoginMoviesViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0">
+               </Location>
+               <Location
+                  uuid = "40668028-5556-4C3D-B786-C017804FE7D1 - df549f7c1cd4ea00"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RetoTecnicoMobile.LoginMoviesViewController.userTextField.modify : Swift.Optional&lt;__C.UITextField&gt;"
+                  moduleName = "RetoTecnicoMobile.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/BurgerMan/Documents/RetoTecnicoMobile/RetoTecnicoMobile/Scenes/LoginMovies/LoginMoviesViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16">
+               </Location>
+               <Location
+                  uuid = "40668028-5556-4C3D-B786-C017804FE7D1 - 62905c3ae772286b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RetoTecnicoMobile.LoginMoviesViewController.userTextField.modify : Swift.Optional&lt;__C.UITextField&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "RetoTecnicoMobile.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///%3Ccompiler-generated%3E"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0">
+               </Location>
+               <Location
+                  uuid = "40668028-5556-4C3D-B786-C017804FE7D1 - 3df25960310918be"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RetoTecnicoMobile.LoginMoviesViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; RetoTecnicoMobile.LoginMoviesViewController"
+                  moduleName = "RetoTecnicoMobile.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/BurgerMan/Documents/RetoTecnicoMobile/RetoTecnicoMobile/Scenes/LoginMovies/LoginMoviesViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16">
+               </Location>
+               <Location
+                  uuid = "40668028-5556-4C3D-B786-C017804FE7D1 - dc14262ab06c3698"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RetoTecnicoMobile.LoginMoviesViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;RetoTecnicoMobile.LoginMoviesViewController&gt;"
+                  moduleName = "RetoTecnicoMobile.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/BurgerMan/Documents/RetoTecnicoMobile/RetoTecnicoMobile/Scenes/LoginMovies/LoginMoviesViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D7B8B2B4-96C5-4A0A-A843-1100E6B66587"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RetoTecnicoMobile/Scenes/LoginMovies/LoginMoviesViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "17"
+            endingLineNumber = "17"
+            landmarkName = "LoginMoviesViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "D7B8B2B4-96C5-4A0A-A843-1100E6B66587 - 6b4398bf49682067"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RetoTecnicoMobile.LoginMoviesViewController.passwordTextField.getter : Swift.Optional&lt;__C.UITextField&gt;"
+                  moduleName = "RetoTecnicoMobile.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/BurgerMan/Documents/RetoTecnicoMobile/RetoTecnicoMobile/Scenes/LoginMovies/LoginMoviesViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0">
+               </Location>
+               <Location
+                  uuid = "D7B8B2B4-96C5-4A0A-A843-1100E6B66587 - ac8b277d3962ff73"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RetoTecnicoMobile.LoginMoviesViewController.passwordTextField.setter : Swift.Optional&lt;__C.UITextField&gt;"
+                  moduleName = "RetoTecnicoMobile.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/BurgerMan/Documents/RetoTecnicoMobile/RetoTecnicoMobile/Scenes/LoginMovies/LoginMoviesViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0">
+               </Location>
+               <Location
+                  uuid = "D7B8B2B4-96C5-4A0A-A843-1100E6B66587 - 79f4956d7dccabda"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RetoTecnicoMobile.LoginMoviesViewController.passwordTextField.modify : Swift.Optional&lt;__C.UITextField&gt;"
+                  moduleName = "RetoTecnicoMobile.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/BurgerMan/Documents/RetoTecnicoMobile/RetoTecnicoMobile/Scenes/LoginMovies/LoginMoviesViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17">
+               </Location>
+               <Location
+                  uuid = "D7B8B2B4-96C5-4A0A-A843-1100E6B66587 - 46753a4da9c56b86"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RetoTecnicoMobile.LoginMoviesViewController.passwordTextField.modify : Swift.Optional&lt;__C.UITextField&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "RetoTecnicoMobile.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///%3Ccompiler-generated%3E"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0">
+               </Location>
+               <Location
+                  uuid = "D7B8B2B4-96C5-4A0A-A843-1100E6B66587 - 3df2596031091899"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RetoTecnicoMobile.LoginMoviesViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; RetoTecnicoMobile.LoginMoviesViewController"
+                  moduleName = "RetoTecnicoMobile.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/BurgerMan/Documents/RetoTecnicoMobile/RetoTecnicoMobile/Scenes/LoginMovies/LoginMoviesViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17">
+               </Location>
+               <Location
+                  uuid = "D7B8B2B4-96C5-4A0A-A843-1100E6B66587 - dc14262ab06c36bf"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RetoTecnicoMobile.LoginMoviesViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;RetoTecnicoMobile.LoginMoviesViewController&gt;"
+                  moduleName = "RetoTecnicoMobile.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/BurgerMan/Documents/RetoTecnicoMobile/RetoTecnicoMobile/Scenes/LoginMovies/LoginMoviesViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1F653C03-1E3E-40B5-AA74-28176D0E5DB9"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RetoTecnicoMobile/Scenes/LoginMovies/LoginMoviesViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "18"
+            endingLineNumber = "18"
+            landmarkName = "LoginMoviesViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "1F653C03-1E3E-40B5-AA74-28176D0E5DB9 - 675b1ee9f8c30fc4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RetoTecnicoMobile.LoginMoviesViewController.btnLogin.getter : Swift.Optional&lt;__C.UIButton&gt;"
+                  moduleName = "RetoTecnicoMobile.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/BurgerMan/Documents/RetoTecnicoMobile/RetoTecnicoMobile/Scenes/LoginMovies/LoginMoviesViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0">
+               </Location>
+               <Location
+                  uuid = "1F653C03-1E3E-40B5-AA74-28176D0E5DB9 - 7a5f9184fa49dfd0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RetoTecnicoMobile.LoginMoviesViewController.btnLogin.setter : Swift.Optional&lt;__C.UIButton&gt;"
+                  moduleName = "RetoTecnicoMobile.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/BurgerMan/Documents/RetoTecnicoMobile/RetoTecnicoMobile/Scenes/LoginMovies/LoginMoviesViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0">
+               </Location>
+               <Location
+                  uuid = "1F653C03-1E3E-40B5-AA74-28176D0E5DB9 - acb47f180ea8ae17"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RetoTecnicoMobile.LoginMoviesViewController.btnLogin.modify : Swift.Optional&lt;__C.UIButton&gt;"
+                  moduleName = "RetoTecnicoMobile.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/BurgerMan/Documents/RetoTecnicoMobile/RetoTecnicoMobile/Scenes/LoginMovies/LoginMoviesViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18">
+               </Location>
+               <Location
+                  uuid = "1F653C03-1E3E-40B5-AA74-28176D0E5DB9 - 982376f244ae495d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RetoTecnicoMobile.LoginMoviesViewController.btnLogin.modify : Swift.Optional&lt;__C.UIButton&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "RetoTecnicoMobile.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///%3Ccompiler-generated%3E"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0">
+               </Location>
+               <Location
+                  uuid = "1F653C03-1E3E-40B5-AA74-28176D0E5DB9 - 3df2596031091f78"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RetoTecnicoMobile.LoginMoviesViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; RetoTecnicoMobile.LoginMoviesViewController"
+                  moduleName = "RetoTecnicoMobile.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/BurgerMan/Documents/RetoTecnicoMobile/RetoTecnicoMobile/Scenes/LoginMovies/LoginMoviesViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18">
+               </Location>
+               <Location
+                  uuid = "1F653C03-1E3E-40B5-AA74-28176D0E5DB9 - dc14262ab06c315e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RetoTecnicoMobile.LoginMoviesViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;RetoTecnicoMobile.LoginMoviesViewController&gt;"
+                  moduleName = "RetoTecnicoMobile.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/BurgerMan/Documents/RetoTecnicoMobile/RetoTecnicoMobile/Scenes/LoginMovies/LoginMoviesViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "49E1D9FC-3FCD-468C-BACD-A98508B913FC"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RetoTecnicoMobile/Scenes/LoginMovies/LoginMoviesConfigurator.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "15"
+            endingLineNumber = "15"
+            landmarkName = "configureMovies(viewController:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7CA9AC18-2D45-4F4B-955A-CF205E83B150"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RetoTecnicoMobile/Scenes/LoginMovies/LoginMoviesConfigurator.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "11"
+            endingLineNumber = "11"
+            landmarkName = "LoginMoviesConfiguratorProtocol"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

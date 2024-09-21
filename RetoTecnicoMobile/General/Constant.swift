@@ -10,7 +10,7 @@ enum Constants {
     enum UrlConstants {
         static let imageUrl = "https://image.tmdb.org/t/p/w500"
         static let url = "https://api.themoviedb.org/3"
-        static let apiKey = "f46b58478f489737ad5a4651a4b25079"
+        static let apiKey = "dd55e22fbc6aacb9e0011b5707e82c62"
         static let urlMovie = "/movie/upcoming"
     }
     
